@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WorkingProcDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaptureImageDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FixModelDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HsbGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HsbVision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HsbVisionDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LightControlDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Markup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertyDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StartUpDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SysGoalData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinXPButtonST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UiBlobIns.cpp">
+      <Filter>Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="UiImagePreProcessing.cpp">
+      <Filter>Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="UiToolBase.cpp">
+      <Filter>Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="UiShapemode.cpp">
+      <Filter>Ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BCMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CKBaseDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaptureImageDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FixModelDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hsb_message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HsbGraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HsbVision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HsbVisionDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LightControlDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Markup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertyDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StartUpDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SysGoalData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolsDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WinXPButtonST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkingProcDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UiBlobIns.h">
+      <Filter>Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="UiImagePreProcessing.h">
+      <Filter>Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="UiToolBase.h">
+      <Filter>Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="UiShapemode.h">
+      <Filter>Ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\new.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\exit.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\tool.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\stop.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\setting.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\save.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\runmode.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\run.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\rectangle2.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\rectangle.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\open.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ok-ng.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\HsbVision.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\HsbVision.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\delete.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\custom.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\circle.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\caputure_usemodel.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\caputure_one.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\caputure_alltime.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cancel all.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\camerset.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\about.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0795d0e4-5307-4964-8a4c-0b368b621197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1c524648-230e-4cde-b4be-5e981c83619a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7ad7e007-6c37-41b3-8df0-d6d6dd952a8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ui">
+      <UniqueIdentifier>{db5fe4a0-3186-4051-9b1b-248eb3ce8643}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HsbVision.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
