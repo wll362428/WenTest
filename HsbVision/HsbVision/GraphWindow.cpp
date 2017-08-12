@@ -14,6 +14,7 @@ IMPLEMENT_DYNAMIC(CGraphWindow, CStatic)
 CGraphWindow::CGraphWindow()
 {
 	m_bDrawRegion = m_bLeftBtnDown = false;
+
 }
 
 CGraphWindow::~CGraphWindow()
